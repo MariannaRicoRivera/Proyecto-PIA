@@ -1,0 +1,31 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(/imagenes/fondociudad.jpg)
+   
+}
+
+.container{
+    background-color: rgb(3, 6, 46);
+    width: auto;
+    height: 550px;
+    bottom: 100;
+    position: relative;
+    
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+    font-weight: 700;
+    }
+
+   h1 {
+    color: beige;
+   }
+   h2{
+    color: beige;
+}
+
+.team-member{
+    color: beige;
+}
